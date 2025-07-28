@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "query": "What are the key steps involved in the forecasting process using multiple inputs?",
+    "description": "This targets the entire forecasting workflow from problem definition to model deployment."
+  },
+  {
+    "id": 2,
+    "query": "How is missing data identified and handled in the forecasting pipeline?",
+    "description": "This query helps retrieve the section on missing data types (MCAR, MAR, MNAR), imputation methods (mean, regression, hot/cold deck), and validation."
+  },
+  {
+    "id": 3,
+    "query": "Which imputation methods are described, and when should each be used?",
+    "description": "This focuses specifically on the explanation of mean imputation, regression imputation, hot deck, cold deck, etc., and their use cases."
+  },
+  {
+    "id": 4,
+    "query": "What role does a centralized data warehouse play in the forecasting process?",
+    "description": "This pulls in details about storing, cleaning, and integrating historical/internal/external data into a structured forecasting pipeline."
+  },
+  {
+    "id": 5,
+    "query": "How does the forecasting model incorporate real-time data updates for rolling forecasts?",
+    "description": "This explores how live data influences forecasting accuracy, especially for perishable goods or time-sensitive inventory decisions."
+  }
+]
