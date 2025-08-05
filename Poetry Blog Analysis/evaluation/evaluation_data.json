@@ -1,0 +1,53 @@
+
+[
+  {
+    "query": "What peaceful family image is shown in 'Children By The Sea'?",
+    "poem": "Children By The Sea Sunrise, On the beach, A child, an umbrella, Facing the broad and calm sea, With Mom and Dad...",
+    "expected_answer": "The poem portrays a peaceful family moment by the sea, emphasizing warmth, protection, and togetherness."
+  },
+  {
+    "query": "What changes in nature show time passing in the poem?",
+    "poem": "Not long after, The sun rises overhead, The wind is blowing, the umbrella is flying, the child is getting tanned...",
+    "expected_answer": "The poem marks time through natural transitions like sunrise, wind, and tanning, reflecting the day's journey."
+  },
+  {
+    "query": "What emotional contrast ends the poem?",
+    "poem": "The horizon in the distance is getting red, The sea kisses my feet, It's cold and quiet, Mom and dad are gone, I'm home...",
+    "expected_answer": "The poem ends with a contrast between loneliness and renewed hope, reflecting on loss and reunion."
+  },
+  {
+    "query": "Describe the mood of 'Deep Sad Feeling'.",
+    "poem": "Deep sad feelings Sometimes part of life we take them, Being undercover with current issues...",
+    "expected_answer": "The mood is melancholic and introspective, highlighting silent suffering and emotional withdrawal."
+  },
+  {
+    "query": "What emotional struggle is shown in 'Her World Within'?",
+    "poem": "Her world within No one knew Her deep pain Her hidden tears Her fast beating heart...",
+    "expected_answer": "The poem reveals hidden pain and emotional struggle behind a composed exterior, highlighting inner turmoil."
+  },
+  {
+    "query": "What metaphor is used for strength in 'I Am The Forest'?",
+    "poem": "I am the forest The storm didn't sustain for days, nor the rain... You are an ancient forest...",
+    "expected_answer": "The forest symbolizes human strength and resilience against life's emotional storms."
+  },
+  {
+    "query": "What message does 'Journey of Life' give about life’s path?",
+    "poem": "Journey of Life There are days where we feel deeply our inner voice... Life is like a journey...",
+    "expected_answer": "The poem teaches that perseverance and inner guidance help navigate the highs and lows of life."
+  },
+  {
+    "query": "What parenting message is in 'Let the birds fly'?",
+    "poem": "Let the birds fly Beautiful tunes inherited not taught... Fabulous nest eggs were given...",
+    "expected_answer": "The poem encourages letting children grow and be independent, despite the emotional difficulty."
+  },
+  {
+    "query": "What feeling is most strong in 'Little Girl'?",
+    "poem": "Hello little girl standing next to me, you are growing every day, and your mamma loves you...",
+    "expected_answer": "The poem strongly expresses maternal love, care, and pride in the child's growth."
+  },
+  {
+    "query": "How does the poem say healing happens?",
+    "poem": "I see, I feel, I need to take a step back... Step back from this elusive shrine...",
+    "expected_answer": "The poem says healing comes through introspection, detachment, and reconnecting with oneself."
+  }
+]

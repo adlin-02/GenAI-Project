@@ -1,0 +1,11 @@
+
+streamlit
+requests
+python-dotenv
+sentence-transformers
+weaviate-client
+scikit-learn
+nltk
+rouge
+bert-score
+

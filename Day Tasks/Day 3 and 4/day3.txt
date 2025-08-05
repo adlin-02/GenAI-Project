@@ -1,0 +1,18 @@
+Title: The Influence of Physical Activity on Mental Health Among University Students
+
+Introduction:
+Mental health concerns are increasingly prevalent among university students, with stress, anxiety, and depression being commonly reported issues. Alongside academic pressure and social changes, lifestyle factors like physical activity can play a pivotal role in influencing mental well-being. Although numerous studies have suggested a link between exercise and reduced symptoms of mental illness, further exploration is needed within the diverse demographic of university students.
+
+Objective:
+The primary aim of this study was to investigate the association between physical activity levels and mental health outcomes—specifically stress, anxiety, and depression—among undergraduate students from various academic backgrounds.
+
+Methodology:
+A total of 450 undergraduate students from six faculties participated in this cross-sectional survey-based study. Participants completed the International Physical Activity Questionnaire (IPAQ) to measure weekly physical activity and the Depression Anxiety Stress Scales (DASS-21) to assess mental health status. The survey also included questions on sedentary behavior, diet, and time spent outdoors. Data were analyzed using multiple regression analysis and Spearman’s rank correlation to identify significant trends and associations.
+
+Results:
+The results demonstrated a significant inverse correlation between physical activity and mental health symptoms (ρ = –0.42, p < 0.01). Students who engaged in at least 150 minutes of moderate-intensity exercise per week reported significantly lower levels of stress and anxiety. Those with sedentary behavior exceeding 8 hours per day were more likely to score higher on the DASS-21 scale, indicating poorer mental health. Outdoor physical activity had a more positive effect on mental well-being compared to indoor exercises. Additionally, students who combined regular exercise with a balanced diet exhibited the lowest depression scores.
+
+Conclusion:
+This study highlights the protective role of physical activity against mental health challenges among university students. Encouraging regular exercise, reducing sedentary behavior, and promoting outdoor engagement can be effective strategies to support student mental health. University wellness programs should integrate physical activity promotion as a core component of mental health initiatives.
+
+Keywords: Physical activity, mental health, university students, stress, anxiety, depression

@@ -1,0 +1,48 @@
+# -----------------------
+# Virtual environment
+# -----------------------
+poetry_env/
+.venv/
+venv/
+env/
+
+# -----------------------
+# Python artifacts
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -----------------------
+# Environment variables
+# -----------------------
+.env
+
+# -----------------------
+# Data and output files
+# -----------------------
+data/
+output_chunks/
+embeddings/
+evaluation/evaluation_report.json
+
+# -----------------------
+# OS-specific files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# VS Code/IDE
+# -----------------------
+.vscode/
+.idea/
+
+# -----------------------
+# Logs and misc
+# -----------------------
+*.log
+*.tmp
+*.bak
